@@ -1,0 +1,17 @@
+    .container{
+        line-height: 80px;
+        width: 800px;
+    }
+   .color1{
+       
+       text-align: left;
+   }
+   .color2{
+      
+       text-align: center;
+   }
+   .color3{
+       
+       text-align: right;
+   }
+   
